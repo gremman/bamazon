@@ -36,7 +36,7 @@ Product Inventory: ![Product Inventory](/screenshots/current_inventory.png)
    * First, the app will ask them the ID (#1-10) of the product they would like to buy.
    * Second, the customer will be asked how many units of the product they would like to buy.
 
-Item Order: ![Item Order](/screenshots/item_order.jpg)
+Item Order: ![Item Order](/screenshots/item_order.png)
 
     If the user provides an invalid ID number, they will receive an error:
 
@@ -56,6 +56,6 @@ Once the customer has placed the order, the application will check if the store 
    
    If the store does not have enough product, the app will log a phrase `Insufficient product in inventory!`, and then prevent the order from going through.
 
-![Not Enough Inventory](/screenshots/insufficient_quantity.jpg)
+![Not Enough Inventory](/screenshots/insufficient_quantity.png)
 
     
