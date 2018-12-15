@@ -48,7 +48,7 @@ Once the customer has placed the order, the application will check if the store 
 
    * The mySQL database will be updated with the new quantities.
 
-Updated Inventory: ![Updated Inventory](/bamazon/screenshots/updated_inventory.png)
+Updated Inventory: ![Updated Inventory](/screenshots/updated_inventory.png)
 
    * The customer will see the total cost of their purchase.
    
