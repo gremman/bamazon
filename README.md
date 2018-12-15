@@ -40,7 +40,7 @@ Item Order: ![Item Order](/screenshots/item_order.png)
 
     If the user provides an invalid ID number, they will receive an error:
 
-![Invalid ID](/screenshots/invalid_id.jpg)
+![Invalid ID](/screenshots/invalid_id.png)
 
 Once the customer has placed the order, the application will check if the store has enough of the product to meet the customer's request.
     
@@ -48,11 +48,11 @@ Once the customer has placed the order, the application will check if the store 
 
    * The mySQL database will be updated with the new quantities.
 
-![Updated Inventory](/bamazon/screenshots/updated_inventory.jpg)
+![Updated Inventory](/bamazon/screenshots/updated_inventory.png)
 
    * The customer will see the total cost of their purchase.
    
-![Cost of Purchase](/screenshots/item_cost.jpg)
+![Cost of Purchase](/screenshots/item_cost.png)
    
    If the store does not have enough product, the app will log a phrase `Insufficient product in inventory!`, and then prevent the order from going through.
 
