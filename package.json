@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "This app is used to run BAmazon, which allows you to see a table of products and make a purchase from the inventory. The order information, including quantity and total cost will be displayed.",
+  "main": "bAmazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gremman/bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gremman/bamazon/issues"
+  },
+  "homepage": "https://github.com/gremman/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
+}
