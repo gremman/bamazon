@@ -28,7 +28,7 @@ The mySQL BAmazon database contains a table entitled `products`.
 ##Node Application `bAmazonCustomer.js` 
 Running this application will first display all of the items available for sale. Include the ids, names, and prices of products for sale.
 
-![Inventory](/screenshots/current_inventory.png)
+Product Inventory: ![Product Inventory](/screenshots/current_inventory.png)
 
 
     The app wil prompt users with two messages:
@@ -36,7 +36,7 @@ Running this application will first display all of the items available for sale.
    * First, the app will ask them the ID (#1-10) of the product they would like to buy.
    * Second, the customer will be asked how many units of the product they would like to buy.
 
-![Item Order](/screenshots/item_order.jpg)
+Item Order: ![Item Order](/screenshots/item_order.jpg)
 
     If the user provides an invalid ID number, they will receive an error:
 
